@@ -3,5 +3,4 @@ learning about staging area on day 4
 <<<<<<< HEAD
 working on  day 5 branch
 day 6 testing undo with resert and revert
-=======
->>>>>>> parent of 69cffd9 (Day5 stash and restore test)
+
