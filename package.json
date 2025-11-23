@@ -1,0 +1,14 @@
+{
+  "name": "devops-nodejs-ci",
+  "version": "1.0.0",
+  "description": "Simple Node.js CI Pipeline Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "echo \"Build step executed\""
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
+
