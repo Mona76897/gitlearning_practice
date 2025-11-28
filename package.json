@@ -8,6 +8,8 @@
     "build": "echo \"Build step executed\""
   },
   "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "eslint": "^9.39.1",
     "jest": "^29.0.0"
   }
 }
